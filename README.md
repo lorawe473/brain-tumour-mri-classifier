@@ -17,7 +17,9 @@ A small, honest study of deep learning for classifying brain MRI slices into fou
 ## Notebooks
 | Notebook | What it does | Open |
 |---|---|---|
-| `01_baseline_classifier.ipynb` | Train and evaluate ResNet-18 / ViT-Small | <!-- replace with your Colab badge --> |
+| `01_baseline_classifier.ipynb` | Train and evaluate ResNet-18 / ViT-Small | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/lorawe473/brain-tumour-mri-classifier/blob/main/01_baseline_classifier.ipynb)
+ |
 | `02_gradcam.ipynb` | Explanation heatmaps (planned) | |
 | `03_leakage_check.ipynb` | Duplicate detection and clean re-split (planned) | |
 
