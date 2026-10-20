@@ -1,1 +1,1 @@
-# brain-tumour-mmri-classifier
+# brain-tumour-mri-classifier
